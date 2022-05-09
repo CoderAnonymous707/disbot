@@ -1,0 +1,1 @@
+worker: python3 D:\Kavipriyan K\Code Programs - Python\Disbot\main.py
